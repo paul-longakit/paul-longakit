@@ -58,7 +58,7 @@
 ---
 
 ## 🖥️ Development Environment & OS Experience
-* 🍏 **macOS:** Utilized professional development MacBooks daily for enterprise backend work and environment configurations during my internship at OPSOLUTIONS[cite: 13, 23].
+* 🍏 **macOS:** Utilized professional development MacBooks daily for enterprise backend work and environment configurations during my internship at OPSOLUTIONS.
 * 🐧 **Linux Mint:** Primary current environment running on Linux Mint 22.3 x86_64 (Cinnamon Desktop Environment) via HP EliteBook 745 G3 (AMD PRO A10-8700B, 8GB RAM) with Bash 5.2.21.
 * 🪟 **Windows:** Extensive experience developing, testing, and managing local projects across Windows platforms.
 
