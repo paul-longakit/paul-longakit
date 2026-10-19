@@ -36,9 +36,11 @@
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### 🧰 Tools, OS & Workflows
+### 🧰 Operating Systems, Tools & Workflows
 <p>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Mint-%2387CEEB.svg?style=for-the-badge&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
@@ -48,10 +50,17 @@
 
 ---
 
-## 🖥️ Development Environment Setup
+## 🖥️ Current Development Environment Setup
 * 💻 **Host:** HP EliteBook 745 G3 (AMD PRO A10-8700B, AMD Radeon R6 Graphics, 8GB RAM)
 * 🐧 **OS:** Linux Mint 22.3 x86_64 (Cinnamon Desktop Environment)
 * 🐚 **Terminal:** Bash 5.2.21 on Gnome-Terminal
+
+---
+
+## 🖥️ Development Environment & OS Experience
+* 🍏 **macOS:** Utilized professional development MacBooks daily for enterprise backend work and environment configurations during my internship at OPSOLUTIONS[cite: 13, 23].
+* 🐧 **Linux Mint:** Primary current environment running on Linux Mint 22.3 x86_64 (Cinnamon Desktop Environment) via HP EliteBook 745 G3 (AMD PRO A10-8700B, 8GB RAM) with Bash 5.2.21.
+* 🪟 **Windows:** Extensive experience developing, testing, and managing local projects across Windows platforms.
 
 ---
 
