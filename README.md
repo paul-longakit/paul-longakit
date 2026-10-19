@@ -50,6 +50,12 @@
 
 ---
 
+### 🤖 AI Tools & Assistant Integration
+* **AI Ecosystem:** Experienced in leveraging state-of-the-art AI tools including DeepSeek, Gemini, ChatGPT, Claude, Proximity, and various others to optimize workflows, accelerate development, and assist in complex problem-solving.
+* **Intelligent Adaptation:** Highly adaptable and eager to learn fast, utilizing AI responsibly alongside continuous learning to quickly master new tech stacks and tackle intricate enterprise software architectures.
+
+---
+
 ## 🖥️ Current Development Environment Setup
 * 💻 **Host:** HP EliteBook 745 G3 (AMD PRO A10-8700B, AMD Radeon R6 Graphics, 8GB RAM)
 * 🐧 **OS:** Linux Mint 22.3 x86_64 (Cinnamon Desktop Environment)
