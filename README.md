@@ -73,7 +73,6 @@
 * 🛒 **CHRIMS (Computer Hardware Retail & Inventory Management System) | Team Lead (2025–2026):** Led a 10-member team building a full-stack retail platform featuring inventory management, secure 2FA/OTP verification, and an 87.8% user satisfaction rating.
 * 🎮 **Ultima Spes | Game Artist/Animator (Team Starforge, 2025–2026):** Co-designed a hybrid action-adventure survival game with civilian rescue mechanics using Godot v4.6.
 * 🧺 **CLOTHGENT (Automated Clothesline Retrieval Machine) | Research Proponent (2022–2023):** Co-developed an automated smart clothesline system using sensors to detect rain and retrieve laundry autonomously.
-* 🎨 **project_janky-paint:** Lightweight Python digital painting and asset-creation app built with a Tkinter GUI.
 
 ---
 
