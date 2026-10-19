@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Paul Longakit 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paul-longakit&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaul-longakit&count_bg=%238A2BE2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VIEWS&edge_flat=false" alt="Profile Views" />
   <a href="https://github.com/paul-longakit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
