@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paul-longakit&color=blueviolet&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/paul-longakit"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="GitHub" /></a>
-  [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paul-evan-longakit-89513b401/)
+  <a href="https://www.linkedin.com/in/paul-evan-longakit-89513b401/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 ---
